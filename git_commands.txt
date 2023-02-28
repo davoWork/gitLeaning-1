@@ -1,0 +1,6 @@
+git init //to initialize git in the folder
+git config user.name davoWork //TO SET USERNAME FOR ME
+git config user.email "dhernandez@belizehealthcare.com"//SET MY EMAIL
+git remote add orgin "url"//SET REPOSITORY LINK
+git status//CHECK ALL FILES LOCALY IN REPOSITORY
+
