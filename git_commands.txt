@@ -3,4 +3,10 @@ git config user.name davoWork //TO SET USERNAME FOR ME
 git config user.email "dhernandez@belizehealthcare.com"//SET MY EMAIL
 git remote add orgin "url"//SET REPOSITORY LINK
 git status//CHECK ALL FILES LOCALY IN REPOSITORY
+git add git_commands.txt//TO ADD FILE TO REPO
+git commit -m "update #1"//
+git log
+git push -u orgin master
+ git clone https://github.com/davoWork/gitLeaning-1//GET COPY FROM URL
+git pull origin master//Copy only the files that were change
 
