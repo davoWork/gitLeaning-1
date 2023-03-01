@@ -9,4 +9,5 @@ git log
 git push -u orgin master
  git clone https://github.com/davoWork/gitLeaning-1//GET COPY FROM URL
 git pull origin master//Copy only the files that were change
+test
 
